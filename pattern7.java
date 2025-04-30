@@ -16,5 +16,13 @@ public class pattern7 {
             }
             System.out.println();
         }
+
+        // for (int i = n; i >= 1; i--) {
+        //     // inner loop
+        //     for (int j = 1; j <= i; j++) {
+        //         System.out.print("*");
+        //     }
+        //     System.out.println();
+        // }                                    it also be corrected
     }
 }
